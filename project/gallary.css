@@ -1,0 +1,57 @@
+#logo{
+    /*background-color: aqua;*/
+    
+    
+    height: 100px;
+    padding top: 20px;
+    
+    
+}
+
+#logo img{
+    
+    display: block;
+    margin: 0px auto;
+    height: 90px;
+    padding-top: 1%;
+    
+}
+
+nav{
+    
+    text-align: center;
+    height: 100px
+}
+
+
+
+
+nav a{
+    
+    text-decoration:none;
+   
+    line-height: 120px;
+    padding-left: 4%;
+  margin-right: 40px;
+   
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    
+    text-transform: uppercase;
+    
+}
+
+nav a:hover{
+    color: #00cc99;
+    
+}
+nav a:hover{
+    color: #00cc99;
+    background-color: ;
+    
+}
+nav .active{
+    
+    color: #0ba39c;
+}
